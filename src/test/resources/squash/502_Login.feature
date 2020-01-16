@@ -10,5 +10,5 @@ Fonctionnalité: Login
     Alors le pet store s'affiche.
     Exemples:
 		| login	| mdp |
-		| j2ee | j2ee |
-		| ACID | ACID |
+		| "j2ee" | "j2ee" |
+		| "ACID" | "ACID" |
