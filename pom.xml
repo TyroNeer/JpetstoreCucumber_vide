@@ -14,7 +14,7 @@
 
   <properties>
 
-    <ta.cucumber.runner.version>1.0.0-RELEASE</ta.cucumber.runner.version>
+    <ta.cucumber.runner.version>1.2.0-RELEASE</ta.cucumber.runner.version>
 
   </properties>
 
